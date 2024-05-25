@@ -1,0 +1,14 @@
+.products{
+    border:2px solid black;
+    border-radius: 14px;
+    height: 270px;
+    width: 200px;
+    display: inline-block;
+    margin: 5px 15px 25px 10px;
+    background-color: rgb(68, 217, 244);
+    
+    
+}
+hr{
+    border: 1px solid black;
+}
